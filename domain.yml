@@ -7,8 +7,6 @@ slots:
     - type: custom
       action: action_show_restaurants
 
-
-
 intents:
   - greet
   - goodbye
